@@ -20,7 +20,7 @@
 |Nico    |        |
 |Nowlan  |        |
 |Rayan   |        |
-|Supatra |        |
+|Supatra |   X    |
 |Thomas  |        |
 |Umar    |        |
 |Vinujhan|        |
